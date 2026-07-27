@@ -1,2 +1,1 @@
-print("hheelloo")
-print("수정")
+print("hello2")
